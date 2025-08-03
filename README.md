@@ -26,7 +26,7 @@ cd AI-Autocorrect-Tool
 3. Install the required library:<BR />
 pip install textblob
 python -m textblob.download_corpora
-4. 4. Run the script:<BR />
+4. Run the script:<BR />
 python autocorrect_tool.py
 
 
